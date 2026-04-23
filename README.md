@@ -1,16 +1,47 @@
-## Hi there 👋
+## 👋 Hi, I'm Induwara Senevirathne
+![Profile Views](https://komarev.com/ghpvc/?username=induwarakeashitha-droid&color=blue)
+![GitHub followers](https://img.shields.io/github/followers/induwarakeashitha-droid?style=social)
+🚀 Full Stack Developer | Cybersecurity Enthusiast
+📍 Sri Lanka
 
-<!--
-**induwarakeashitha-droid/induwarakeashitha-droid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🔭 Building modern web applications
+* 🧠 Learning  cybersecurity
+* 🎯 Goal: AI & Computer Science
+
+---
+
+## 🌐 Portfolio
+
+🔗 https://aurawebsolution.online
+
+---
+
+## ⚡ Tech Stack
+
+* Frontend: HTML, CSS, JavaScript
+* Backend: Node.js, Express
+* Database: PostgreSQL
+* Tools: Git, VS Code
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=induwarakeashitha-droid\&show_icons=true\&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=induwarakeashitha-droid\&layout=compact\&theme=tokyonight)
+
+---
+
+## 📫 Contact
+
+* Email: (mailto:induwarakeashitha@icloud.com)
+* LinkedIn: your link (https://www.linkedin.com/in/induwara-keashitha?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
+
+---
+
+⭐ *“Building things that matter.”*
