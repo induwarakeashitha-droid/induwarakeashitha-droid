@@ -54,7 +54,11 @@
 ---
 
 ## 📫 Contact
+## 🌐 Connect with me
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white)](https://aurawebsolution.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/induwara-keashitha)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:induwarasenevirathne@icloud.com)
 * Email: (mailto:induwarakeashitha@icloud.com)
 * LinkedIn: your link (https://www.linkedin.com/in/induwara-keashitha?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
 
