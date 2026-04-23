@@ -8,7 +8,6 @@
 
 ## 💻 About Me
 ## ⚡ Tech Stack
-## ⚡ Tech Stack
 
 ### 🌐 Frontend Development
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -40,15 +39,6 @@
 ## 🌐 Portfolio
 
 🔗 https://aurawebsolution.online
-
----
-
-## ⚡ Tech Stack
-
-* Frontend: HTML, CSS, JavaScript
-* Backend: Node.js, Express
-* Database: PostgreSQL
-* Tools: Git, VS Code
 
 ---
 
